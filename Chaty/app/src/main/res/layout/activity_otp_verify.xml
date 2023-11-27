@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".reset.OtpVerify">
+
+    <include
+        android:id="@+id/tool"
+        layout="@layout/toolbar" />
+
+    <ProgressBar
+        android:id="@+id/loader_otp_verifying"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:elevation="5dp" />
+
+    <EditText
+        android:id="@+id/otp_verify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/quiz_bg"
+        android:hint="Otp Here..."
+        android:inputType="number"
+        android:maxLength="6"
+        android:padding="10dp" />
+
+
+    <Button
+        android:textColor="@color/white"
+        android:background="@drawable/btn_bg"
+        android:id="@+id/verify_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/otp_verify"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="verify"
+
+        />
+
+    <TextView
+        android:layout_width="600dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/loader_otp_verifying"
+        android:layout_alignStart="@+id/otp_verify"
+        android:layout_alignEnd="@+id/otp_verify"
+        android:layout_marginStart="-14dp"
+        android:layout_marginEnd="-26dp"
+        android:layout_marginBottom="66dp"
+        android:gravity="center_horizontal"
+        android:text="Check OTP in Spam/private folder"
+        android:textAlignment="center" />
+
+
+</RelativeLayout>

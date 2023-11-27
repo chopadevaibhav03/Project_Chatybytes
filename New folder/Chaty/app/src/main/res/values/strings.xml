@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ChatBytes</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+
+    <!--    <string name="ads_id">ca-app-pub-1403078278497340~3339369814</string>-->
+    <!--<string name="banner">ca-app-pub-6728272240087190/3093246868</string>-->
+    <!--<string name="inter">ca-app-pub-6728272240087190/8892368457</string>-->
+    <!--<string name="rewarded">ca-app-pub-6728272240087190/1013878432</string>-->
+    <!--<string name="openAds">ca-app-pub-6728272240087190/9822306740</string>-->
+    <!--<string name="nativeAds">ca-app-pub-6728272240087190/3911698039</string>-->
+
+    <!--    <string name="banner">ca-app-pub-1403078278497340/5603722456</string>-->
+    <!--    <string name="inter">ca-app-pub-1403078278497340/2504143751</string>-->
+    <!--    <string name="rewarded">ca-app-pub-1403078278497340/1834716456</string>-->
+    <!--    <string name="openAds">ca-app-pub-1403078278497340/3546558847</string>-->
+    <!--    <string name="nativeAds">ca-app-pub-1403078278497340/4795744109</string>-->
+
+
+    <string name="ad_attribution">Ad</string>
+    <string name="what_does_computer">What Does Computer Mean? A computer is a machine or device that performs processes, calculations and operations based on instructions provided by a software or hardware program. It has the ability to accept data (input), process it, and then produce outputs. Computers can also store data for later uses in appropriate storage devices, and retrieve whenever it is necessary. Modern computers are electronic devices used for a variety of purposes ranging from browsing the web, writing documents, editing videos, creating applications, playing video games, etc. They are designed to execute applications and provide a variety of solutions by combining integrated hardware and software components.</string>
+
+</resources>

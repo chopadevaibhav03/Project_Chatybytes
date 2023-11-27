@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426065212127",
+    "project_id": "kuber2023-4091c",
+    "storage_bucket": "kuber2023-4091c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426065212127:android:e4897e0d50c9c1a7892f6a",
+        "android_client_info": {
+          "package_name": "com.makemoney2023.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426065212127-gk4b3v162u19bk9knbqvveek66j9lihm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_LPbhu9gv7pOuB6mcrTkF-xpkcXJFlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426065212127-gk4b3v162u19bk9knbqvveek66j9lihm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
